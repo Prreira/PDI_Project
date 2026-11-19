@@ -1,0 +1,37 @@
+id;idade;localidade;situacao;livros_12m;genero;formato;horas_semana;lingua_pt;lingua_en;lingua_outra;obt_compra;obt_biblioteca;obt_emprestimo;obt_digital;obt_outra;freq_biblioteca;bib_municipal;bib_escolar;bib_digital;bib_outra;doc_livro;doc_artigo;doc_tese;doc_relatorio;doc_dataset;doc_multimedia;doc_periodico;pesquisa_inicio;facilidade;prob_irrelevante;prob_indisponivel;prob_sem_digital;prob_catalogo;prob_acentos;prob_nenhum;atraso;imp_pesquisa;imp_reserva;imp_digital;imp_aviso;imp_filtros;imp_recomend;imp_acessib;historico;interesse_subtema
+R01;24;Matosinhos;3;5;8;1;4;1;1;0;1;0;0;0;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;5;3;5;4;5;3;;1;3
+R02;23;Porto;1;2;3;2;2;1;1;0;0;0;0;1;0;2;0;1;0;0;0;1;0;0;0;1;1;6;4;0;0;0;0;0;1;3;4;4;5;5;3;5;4;1;4
+R03;22;Vale de cambra ;1;3;1;1;2;1;0;0;1;0;1;0;0;3;0;1;0;0;1;0;0;0;0;0;0;3;4;0;1;0;0;0;0;3;3;4;5;5;4;3;3;3;3
+R04;53;Maia;3;2;1;1;12;1;0;0;1;0;0;0;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;5;5;3;5;4;3;5;2;4
+R05;57;Maia;3;3;2;1;2;1;0;0;1;0;0;0;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;4;4;4;4;4;4;4;3;3
+R06;53;Matosinhos ;4;3;2;1;1;1;0;0;1;0;0;0;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;3;2;3;3;3;3;2;3;3
+R07;21;Porto;2;10;1;1;4;1;1;0;1;0;0;0;0;2;0;1;0;0;1;1;1;0;0;0;0;1;5;0;1;1;0;0;0;3;5;5;5;4;5;2;2;2;3
+R08;55;Maia;3;3;11;3;1;1;0;0;1;0;1;0;0;1;0;0;1;0;1;0;0;0;0;0;0;1;3;0;0;0;0;1;0;2;5;5;5;5;5;3;4;2;3
+R09;23;Maia;1;7;3;1;3;1;1;0;1;0;1;0;0;1;1;0;1;0;1;1;0;0;0;1;1;6;4;0;1;0;0;1;0;3;5;5;5;5;4;2;5;2;5
+R10;38;Paredes;4;38;6;1;5;1;1;1;1;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;4;3;0;0;0;0;0;1;4;3;3;3;3;3;3;3;1;5
+R11;23;Póvoa de Varzim ;1;10;1;1;4;1;1;0;1;0;0;0;1;2;1;0;1;0;1;1;1;1;0;0;0;3;4;0;1;0;0;0;0;2;5;5;5;5;5;2;5;2;4
+R12;23;Caldas da Rainha;1;0;8;3;3;1;1;0;1;0;0;1;0;1;1;1;0;0;1;0;0;0;0;0;0;5;3;0;0;0;0;0;1;3;5;4;4;5;5;4;5;2;4
+R13;18;Santa Maria da feira ;1;30;3;1;1;0;1;0;1;0;0;0;0;2;1;1;0;0;1;0;0;0;0;0;0;1;3;0;0;1;0;0;0;2;4;4;5;5;4;3;3;1;3
+R14;21;Santa Maria da Feira ;1;8;1;1;3;1;0;0;1;0;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;5;3;0;1;0;0;0;0;3;5;5;5;5;5;5;5;2;1
+R15;64;Maia;4;4;2;1;3;1;0;0;1;0;0;0;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;4;1;4;1;1;5;4;1;3
+R16;43;Matosinhos ;4;4 ;10;1;2;1;0;0;1;0;0;0;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;2;2;3;3;3;3;3;1;3
+R17;18;Coimbra ;3;0;11;1;0;1;0;0;1;0;1;0;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;5;4;5;4;5;4;5;1;3
+R18;72;Porto;5;0;2;1;0;1;0;0;1;0;0;0;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;4;2;5;4;1;1;3;3;3
+R19;58;Coimbra ;3;2;4;1;5;1;0;0;1;1;0;0;0;1;0;1;0;0;1;0;0;0;0;1;1;5;4;0;1;0;0;0;0;3;5;4;4;5;5;3;4;3;3
+R20;60;Porto;4;1;2;1;2;1;0;0;1;0;0;0;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;3;1;1;1;1;3;2;1;3
+R21;37;Paredes;4;0;10;1;10;1;1;1;1;0;0;0;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;4;2;5;4;4;5;3;1;2
+R22;22;Porto;2;7;1;3;2;1;0;0;1;0;1;1;0;1;0;0;1;0;1;0;0;0;0;0;0;5;4;0;0;0;0;0;1;1;4;4;5;5;4;4;5;1;2
+R23;29;Santa Maria da Feira ;3;3;2;1;1.5;1;0;0;1;0;1;0;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;4;4;4;5;4;5;5;2;2
+R24;59;Porto;4;5;1;1;1;1;0;0;0;0;1;0;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;3;1;4;3;4;4;4;1;3
+R25;51;Maia;3;2;6;1;2;1;0;0;1;0;0;0;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;3;3;3;3;3;3;3;1;2
+R26;53;Porto;3;2;2;1;2;1;0;0;1;0;0;0;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;4;1;3;3;3;3;3;1;1
+R27;55;Porto;4;2;7;3;1;1;0;0;0;0;0;1;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;5;4;5;5;5;5;5;2;4
+R28;22;Viseu;1;3;2;1;8;1;1;0;1;0;0;0;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;4;3;5;3;4;4;5;3;4
+R29;20;Viana do Castelo;1;23;1;1;1;1;1;0;1;0;0;0;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;4;5;5;5;5;5;5;2;4
+R30;22;Caramulo;1;25;1;1;2;1;0;0;1;0;1;0;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;5;5;4;5;4;4;4;2;3
+R31;28;Maia;3;5;1;1;1;1;0;0;1;0;0;0;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;3;1;3;1;1;3;3;1;2
+R32;44;Vila Nova de Gaia ;4;4;7;1;3;1;1;0;1;1;0;0;0;2;1;0;0;0;1;0;0;0;0;0;1;1;4;1;1;0;1;0;0;3;3;3;2;2;2;2;2;2;2
+R33;60;Porto;4;0;1;1;2;1;0;0;1;0;0;0;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;5;1;5;1;5;4;5;1;1
+R34;45;Vila Nova de Gaia ;4;2;10;1;1;1;0;0;1;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;2;2;0;1;0;1;0;0;3;4;4;4;5;4;3;5;2;3
+R35;23;Gondomar;2;1;1;1;4;1;0;0;1;0;1;0;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;5;1;1;5;5;5;5;1;4
+R36;42;Maia;4;0;11;1;0;1;0;0;1;0;0;0;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;3;3;3;3;3;2;3;1;3

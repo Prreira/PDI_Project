@@ -1,5 +1,3 @@
-# Codebook do inquérito BiblioPI
-
 ## 1. Dicionário de dados
 
 - Célula vazia = sem resposta

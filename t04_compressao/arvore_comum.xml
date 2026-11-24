@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arvoreHuffman cadeia="A_BIBLIOTECA_DIGITAL_DO_ISPGAYA" peso="31">
+  <no peso="31">
+    <ramo bit="0">
+      <no peso="13">
+        <ramo bit="0">
+          <no peso="5">
+            <ramo bit="0">
+              <no peso="2">
+                <ramo bit="0">
+                  <folha peso="1" simbolo="P" codigo="0000"/>
+                </ramo>
+                <ramo bit="1">
+                  <folha peso="1" simbolo="S" codigo="0001"/>
+                </ramo>
+              </no>
+            </ramo>
+            <ramo bit="1">
+              <no peso="3">
+                <ramo bit="0">
+                  <folha peso="1" simbolo="Y" codigo="0010"/>
+                </ramo>
+                <ramo bit="1">
+                  <folha peso="2" simbolo="B" codigo="0011"/>
+                </ramo>
+              </no>
+            </ramo>
+          </no>
+        </ramo>
+        <ramo bit="1">
+          <no peso="8">
+            <ramo bit="0">
+              <folha peso="4" simbolo="_" codigo="010"/>
+            </ramo>
+            <ramo bit="1">
+              <no peso="4">
+                <ramo bit="0">
+                  <folha peso="2" simbolo="D" codigo="0110"/>
+                </ramo>
+                <ramo bit="1">
+                  <folha peso="2" simbolo="G" codigo="0111"/>
+                </ramo>
+              </no>
+            </ramo>
+          </no>
+        </ramo>
+      </no>
+    </ramo>
+    <ramo bit="1">
+      <no peso="18">
+        <ramo bit="0">
+          <no peso="8">
+            <ramo bit="0">
+              <no peso="4">
+                <ramo bit="0">
+                  <folha peso="2" simbolo="L" codigo="1000"/>
+                </ramo>
+                <ramo bit="1">
+                  <folha peso="2" simbolo="O" codigo="1001"/>
+                </ramo>
+              </no>
+            </ramo>
+            <ramo bit="1">
+              <no peso="4">
+                <ramo bit="0">
+                  <folha peso="2" simbolo="T" codigo="1010"/>
+                </ramo>
+                <ramo bit="1">
+                  <no peso="2">
+                    <ramo bit="0">
+                      <folha peso="1" simbolo="C" codigo="10110"/>
+                    </ramo>
+                    <ramo bit="1">
+                      <folha peso="1" simbolo="E" codigo="10111"/>
+                    </ramo>
+                  </no>
+                </ramo>
+              </no>
+            </ramo>
+          </no>
+        </ramo>
+        <ramo bit="1">
+          <no peso="10">
+            <ramo bit="0">
+              <folha peso="5" simbolo="A" codigo="110"/>
+            </ramo>
+            <ramo bit="1">
+              <folha peso="5" simbolo="I" codigo="111"/>
+            </ramo>
+          </no>
+        </ramo>
+      </no>
+    </ramo>
+  </no>
+</arvoreHuffman>

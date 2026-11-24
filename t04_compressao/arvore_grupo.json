@@ -1,0 +1,128 @@
+{
+  "cadeia": "BIBLIOPI_ISPGAYA_RECURSOS_DIGITAIS",
+  "arvore": {
+    "peso": 34,
+    "0": {
+      "peso": 15,
+      "0": {
+        "peso": 7,
+        "simbolo": "I",
+        "codigo": "00"
+      },
+      "1": {
+        "peso": 8,
+        "0": {
+          "peso": 4,
+          "simbolo": "S",
+          "codigo": "010"
+        },
+        "1": {
+          "peso": 4,
+          "0": {
+            "peso": 2,
+            "simbolo": "G",
+            "codigo": "0110"
+          },
+          "1": {
+            "peso": 2,
+            "simbolo": "O",
+            "codigo": "0111"
+          }
+        }
+      }
+    },
+    "1": {
+      "peso": 19,
+      "0": {
+        "peso": 8,
+        "0": {
+          "peso": 4,
+          "0": {
+            "peso": 2,
+            "simbolo": "P",
+            "codigo": "1000"
+          },
+          "1": {
+            "peso": 2,
+            "simbolo": "R",
+            "codigo": "1001"
+          }
+        },
+        "1": {
+          "peso": 4,
+          "0": {
+            "peso": 2,
+            "0": {
+              "peso": 1,
+              "simbolo": "C",
+              "codigo": "10100"
+            },
+            "1": {
+              "peso": 1,
+              "simbolo": "D",
+              "codigo": "10101"
+            }
+          },
+          "1": {
+            "peso": 2,
+            "0": {
+              "peso": 1,
+              "simbolo": "E",
+              "codigo": "10110"
+            },
+            "1": {
+              "peso": 1,
+              "simbolo": "L",
+              "codigo": "10111"
+            }
+          }
+        }
+      },
+      "1": {
+        "peso": 11,
+        "0": {
+          "peso": 5,
+          "0": {
+            "peso": 2,
+            "0": {
+              "peso": 1,
+              "simbolo": "T",
+              "codigo": "11000"
+            },
+            "1": {
+              "peso": 1,
+              "simbolo": "U",
+              "codigo": "11001"
+            }
+          },
+          "1": {
+            "peso": 3,
+            "simbolo": "A",
+            "codigo": "1101"
+          }
+        },
+        "1": {
+          "peso": 6,
+          "0": {
+            "peso": 3,
+            "simbolo": "_",
+            "codigo": "1110"
+          },
+          "1": {
+            "peso": 3,
+            "0": {
+              "peso": 1,
+              "simbolo": "Y",
+              "codigo": "11110"
+            },
+            "1": {
+              "peso": 2,
+              "simbolo": "B",
+              "codigo": "11111"
+            }
+          }
+        }
+      }
+    }
+  }
+}

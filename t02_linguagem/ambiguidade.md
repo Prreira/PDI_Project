@@ -77,7 +77,7 @@ Regras de Empréstimo:
 Ambiguidades encontradas: "até 5 livros" esta expressão não esclarece se o estudante só pode requisitar 5 livros em simultâneo ou se durante o período dos 15 dias o aluno pode requisitar no máximo 5 livros. "durante 15 dias" não esclarece quando começa a contagem desses 15 dias e nem se são 15 dias uteis ou 15 dias consecutivos;
 Como resolver: para eliminar as duvidas é preciso deixar claro que cada estudante só pode ter 5 livros requisitados em simultâneo e que o período de 15 dias começa a contar a partir do momento do empréstimo e que são 15 dias consecutivos;
 Pseudocódigo:
-
+```
 programa {
     funcao Emprestimo() {
         cadeia perfil = "estudante"
@@ -100,12 +100,12 @@ programa {
         }
     }
 }
-
+```
 2. R2 — «Os docentes têm prazos maiores e não pagam multas, exceto nas obras de reserva.»
 Ambiguidades encontradas: "prazos maiores" esta expressão não deixa claro quantos dias a mais os docentes podem ficar com os livros. "exceto nas obras de reserva" não deixa claro se os docentes recebem multa somente neste tipo de obra ou se também deixa de puder ter estas obras por mais tempo que os estudantes;
 Como resolver: Definir prazos específicos para os docentes, deixar claro que os docentes não pagam multa nos empréstimos de obras "normais" e que nas obras de reserva aplicar um prazo especifico de entrega das obras e também que os docentes pagam a multa;
 Pseudocódigo:
-
+```
 programa {
     funcao inicio() {
         cadeia perfil = "docente"
@@ -133,12 +133,12 @@ programa {
         retorne verdadeiro
     }
 }
-
+```
 3. R3 — «É aplicada uma multa de 0,50 € por dia a partir do terceiro dia de atraso.»
 Ambiguidades encontradas: "a partir do terceiro dia" não deixa claro se começa a ser aplicada a multa no terceiro dia ou se só começa a contar após o terceiro dia completo, e também não esclarece se conta dias consecutivos ou dias uteis;
 Como resolver: a multa começa a ser aplicada a partir do terceiro dia de atraso, são contabilizados dias consecutivos;
 Pseudocódigo:
-
+```
 programa {
     funcao inicio() {
         cadeia perfil = "estudante"
@@ -171,12 +171,12 @@ programa {
         retorne 0.0
     }
 }
-
+```
 4. R4 — «As obras raras só podem ser consultadas na sala de leitura por utilizadores autorizados.»
 Ambiguidades encontradas: "utilizadores autorizados" não esclarece quem pode fornecer essa autorização nem quais os critérios para tal, "consultadas na sala de leitura" não deixa claro se o acesso necessita de alguma aviso prévio ou se alguém que tenha autorização pode aceder a sala quando quiser;
 Como resolver: Apenas utilizadores que tenham recebido uma autorização previa pela biblioteca tem acesso á sala, a consulta tem de ser obrigatoriamente presencial e que as obras raras não podem ser levadas para casa apenas tem acesso a elas dentro da sala de leitura;
 Pseudocódigo:
-
+```
 programa {
     funcao inicio() {
         cadeia tipoObra = "rara"

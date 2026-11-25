@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo xmlns="http://ispgaya.pt/pi/bibliopi"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:adm="http://ispgaya.pt/pi/bibliopi/adm"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://ispgaya.pt/pi/bibliopi catalogo.xsd"
+          repositorio="BiblioPI"
+          subtema="Cultura Pop"
+          versao="1.0">
+
+
+  <documento id="DOC-0001">
+    <dc:title lingua="pt-PT">Os Comics em Portugal: Uma História da Banda Desenhada</dc:title>
+    <dc:creator>António Dias de Deus</dc:creator>
+    <dc:subject>Cultura Pop</dc:subject>
+    <dc:subject>Banda Desenhada</dc:subject>
+    <dc:description>Livro. Lisboa: Cotovia / Bedeteca de Lisboa, dezembro de 1997, 365 p. Revisão e atualização de Leonardo De Sá. ISBN original (10 dígitos): 972-8423-04-7.</dc:description>
+    <dc:date>1997-12-01</dc:date>
+    <dc:language>pt-PT</dc:language>
+    <cdu>741.5</cdu>
+    <anoPublicacao>1997</anoPublicacao>
+    <resumo>Percorre a história da <termo>banda desenhada</termo> publicada em Portugal, desde as primeiras histórias em jornais e revistas até às edições do final do século XX, dando destaque aos <termo>autores portugueses</termo> e às <termo>revistas de BD</termo>.</resumo>
+    <livro edicao="1">
+      <isbn>978-9728423049</isbn>
+      <editora>Cotovia / Bedeteca de Lisboa</editora>
+      <paginas>365</paginas>
+    </livro>
+    <relacionados>
+      <relacionado ref="DOC-0011"/>
+      <relacionado ref="DOC-0015"/>
+      <relacionado ref="DOC-0017"/>
+    </relacionados>
+    <adm:metadados>
+      <adm:dataRegisto>2026-11-10</adm:dataRegisto>
+      <adm:estado>disponivel</adm:estado>
+      <adm:hashFicheiro>4f8a9c12e7b304d15a2f6e89c01b3d47f9e2a5c8136d4b70e8f1a2c3d4e5b691</adm:hashFicheiro>
+      <adm:custoAquisicao>22.50</adm:custoAquisicao>
+    </adm:metadados>
+  </documento>
+
+  <documento id="DOC-0002">
+    <dc:title lingua="pt-PT">Videojogos em Portugal: História, Tecnologia e Arte</dc:title>
+    <dc:creator>Nelson Zagalo</dc:creator>
+    <dc:subject>Cultura Pop</dc:subject>
+    <dc:subject>Videojogos</dc:subject>
+    <dc:description>Livro. Lisboa: FCA – Editora de Informática, 2013, 248 p.</dc:description>
+    <dc:date>2013-01-01</dc:date>
+    <dc:language>pt-PT</dc:language>
+    <cdu>794</cdu>
+    <anoPublicacao>2013</anoPublicacao>
+    <resumo>Traça a história dos <termo>videojogos</termo> criados em Portugal, desde os primeiros jogos para microcomputadores até à produção mais recente, cruzando a evolução da <termo>tecnologia</termo> com a dimensão artística dos jogos.</resumo>
+    <livro>
+      <isbn>978-9727227655</isbn>
+      <editora>FCA – Editora de Informática</editora>
+      <paginas>248</paginas>
+    </livro>
+    <relacionados>
+      <relacionado ref="DOC-0012"/>
+      <relacionado ref="DOC-0018"/>
+      <relacionado ref="DOC-0020"/>
+    </relacionados>
+    <adm:metadados>
+      <adm:dataRegisto>2026-11-10</adm:dataRegisto>
+      <adm:estado>emprestado</adm:estado>
+      <adm:hashFicheiro>9c3e7a15b4d28f601e9a4c7b2d5f8036a1c4e7b902d5f8a3c6e1b4d7a0c3f582</adm:hashFicheiro>
+      <adm:custoAquisicao>24.95</adm:custoAquisicao>
+    </adm:metadados>
+  </documento>
+
+  <documento id="DOC-0003">
+    <dc:title lingua="en">Convergence Culture: Where Old and New Media Collide</dc:title>
+    <dc:creator>Henry Jenkins</dc:creator>
+    <dc:subject>Cultura Pop</dc:subject>
+    <dc:subject>Media</dc:subject>
+    <dc:subject>Fãs</dc:subject>
+    <dc:description>Livro. Nova Iorque: New York University Press, agosto de 2006, 308 p.</dc:description>
+    <dc:date>2006-08-01</dc:date>
+    <dc:language>en</dc:language>
+    <cdu>316.77</cdu>
+    <anoPublicacao>2006</anoPublicacao>
+    <resumo>Defende que a <termo>convergência dos media</termo> é sobretudo uma mudança cultural, em que os públicos participam ativamente na circulação dos conteúdos; introduz os conceitos de <termo>cultura participativa</termo>, inteligência coletiva e <termo>narrativa transmédia</termo>.</resumo>
+    <livro>
+      <isbn>978-0814742815</isbn>
+      <editora>New York University Press</editora>
+      <paginas>308</paginas>
+    </livro>
+    <relacionados>
+      <relacionado ref="DOC-0006"/>
+      <relacionado ref="DOC-0008"/>
+    </relacionados>
+    <adm:metadados>
+      <adm:dataRegisto>2026-11-11</adm:dataRegisto>
+      <adm:estado>disponivel</adm:estado>
+      <adm:hashFicheiro>2b7d4f91a6c38e50d2f4a8b1c9e30754f1a6c8d2e5b90374a2c5e8f1b4d70963</adm:hashFicheiro>
+      <adm:custoAquisicao>19.90</adm:custoAquisicao>
+    </adm:metadados>
+  </documento>
+
+  <documento id="DOC-0004">
+    <dc:title lingua="en">Retromania: Pop Culture's Addiction to Its Own Past</dc:title>
+    <dc:creator>Simon Reynolds</dc:creator>
+    <dc:subject>Cultura Pop</dc:subject>
+    <dc:subject>Música Pop</dc:subject>
+    <dc:subject>Nostalgia</dc:subject>
+    <dc:description>Livro. Nova Iorque: Faber and Faber, julho de 2011, 458 p.</dc:description>
+    <dc:date>2011-07-26</dc:date>
+    <dc:language>en</dc:language>
+    <cdu>316.7</cdu>
+    <anoPublicacao>2011</anoPublicacao>
+    <resumo>Analisa a obsessão da <termo>cultura pop</termo> contemporânea pelo seu próprio passado — reedições, reuniões de bandas, remakes e revivalismos — e discute o que a <termo>nostalgia</termo> significa para a criatividade na <termo>música pop</termo>.</resumo>
+    <livro>
+      <isbn>978-0865479944</isbn>
+      <editora>Faber and Faber</editora>
+      <paginas>458</paginas>
+    </livro>
+    <relacionados>
+      <relacionado ref="DOC-0020"/>
+    </relacionados>
+    <adm:metadados>
+      <adm:dataRegisto>2026-11-11</adm:dataRegisto>
+      <adm:estado>disponivel</adm:estado>
+      <adm:hashFicheiro>7e1a5c93d4b82f60a3c7e1b5d9f20486c1e4a7b0d3f68925a8c1e4f7b0d32694</adm:hashFicheiro>
+      <adm:custoAquisicao>16.50</adm:custoAquisicao>
+    </adm:metadados>
+  </documento>
+
+  <documento id="DOC-0005">
+    <dc:title lingua="en">Complex TV: The Poetics of Contemporary Television Storytelling</dc:title>
+    <dc:creator>Jason Mittell</dc:creator>
+    <dc:subject>Cultura Pop</dc:subject>
+    <dc:subject>Televisão</dc:subject>
+    <dc:subject>Séries</dc:subject>
+    <dc:description>Livro. Nova Iorque: New York University Press, abril de 2015, 416 p.</dc:description>
+    <dc:date>2015-04-10</dc:date>
+    <dc:language>en</dc:language>
+    <cdu>654.197</cdu>
+    <anoPublicacao>2015</anoPublicacao>
+    <resumo>Estuda a <termo>complexidade narrativa</termo> das <termo>séries de televisão</termo> norte-americanas desde os anos 90, explicando como as séries constroem personagens, enredos e arcos longos e como os espectadores os acompanham.</resumo>
+    <livro>
+      <isbn>978-0814769607</isbn>
+      <editora>New York University Press</editora>
+      <paginas>416</paginas>
+    </livro>
+    <relacionados>
+      <relacionado ref="DOC-0009"/>
+      <relacionado ref="DOC-0010"/>
+    </relacionados>
+    <adm:metadados>
+      <adm:dataRegisto>2026-11-12</adm:dataRegisto>
+      <adm:estado>reservado</adm:estado>
+      <adm:hashFicheiro>5a9c3e71b2d68f40e1a5c9b3d7f02468a2c4e6b8d0f13579c2e4a6b8d0f24685</adm:hashFicheiro>
+      <adm:custoAquisicao>18.90</adm:custoAquisicao>
+    </adm:metadados>
+  </documento>
+
+  <documento id="DOC-0006">
+    <dc:title lingua="en">Memes in a Digital World: Reconciling with a Conceptual Troublemaker</dc:title>
+    <dc:creator>Limor Shifman</dc:creator>
+    <dc:subject>Cultura Pop</dc:subject>
+    <dc:subject>Memes</dc:subject>
+    <dc:subject>Cultura Digital</dc:subject>
+    <dc:description>Artigo científico. Journal of Computer-Mediated Communication, vol. 18, n.º 3, pp. 362–377, abril de 2013.</dc:description>
+    <dc:date>2013-04-01</dc:date>
+    <dc:language>en</dc:language>
+    <cdu>316.77</cdu>
+    <anoPublicacao>2013</anoPublicacao>
+    <resumo>Revê o conceito de meme no contexto da <termo>cultura digital</termo> e propõe analisar os <termo>memes da Internet</termo> a partir do conteúdo, da forma e da postura, aplicando a proposta ao meme em vídeo «Leave Britney Alone».</resumo>
+    <artigo>
+      <doi>10.1111/jcc4.12013</doi>
+      <revista>Journal of Computer-Mediated Communication</revista>
+      <volume>18</volume>
+    </artigo>
+    <relacionados>
+      <relacionado ref="DOC-0003"/>
+    </relacionados>
+    <adm:metadados>
+      <adm:dataRegisto>2026-11-12</adm:dataRegisto>
+      <adm:estado>disponivel</adm:estado>
+      <adm:hashFicheiro>8d2f6a04c1e95b73a4c8e2f6b0d37195e2a4c6d8f0b13579a2c4e6f8b0d25796</adm:hashFicheiro>
+      <adm:custoAquisicao>0.00</adm:custoAquisicao>
+    </adm:metadados>
+  </documento>
+
+  <documento id="DOC-0007">
+    <dc:title lingua="en">&quot;Cosplay&quot;: Imaginative Self and Performing Identity</dc:title>
+    <dc:creator>Osmud Rahman</dc:creator>
+    <dc:creator>Wing-sun Liu</dc:creator>
+    <dc:creator>Brittany Hei-man Cheung</dc:creator>
+    <dc:subject>Cultura Pop</dc:subject>
+    <dc:subject>Cosplay</dc:subject>
+    <dc:subject>Identidade</dc:subject>
+    <dc:description>Artigo científico. Fashion Theory: The Journal of Dress, Body &amp; Culture, vol. 16, n.º 3, pp. 317–341, setembro de 2012.</dc:description>
+    <dc:date>2012-09-01</dc:date>
+    <dc:language>en</dc:language>
+    <cdu>316.7</cdu>
+    <anoPublicacao>2012</anoPublicacao>
+    <resumo>Estudo da subcultura do <termo>cosplay</termo> em Hong Kong, que mostra como os participantes usam o traje e a interpretação de personagens para explorar a <termo>identidade</termo>, a autenticidade e a ligação afetiva às obras.</resumo>
+    <artigo>
+      <doi>10.2752/175174112X13340749707204</doi>
+      <revista>Fashion Theory: The Journal of Dress, Body &amp; Culture</revista>
+      <volume>16</volume>
+    </artigo>
+    <relacionados>
+      <relacionado ref="DOC-0013"/>
+    </relacionados>
+    <adm:metadados>
+      <adm:dataRegisto>2026-11-12</adm:dataRegisto>
+      <adm:estado>disponivel</adm:estado>
+      <adm:hashFicheiro>1f4b8d26a9c35e70b1d5f9a3c7e20468d1f3a5c7e9b24680f1a3c5d7e9b26807</adm:hashFicheiro>
+      <adm:custoAquisicao>0.00</adm:custoAquisicao>
+    </adm:metadados>
+  </documento>
+
+  <documento id="DOC-0008">
+    <dc:title lingua="en">The social mediascape of transnational Korean pop culture: Hallyu 2.0 as spreadable media practice</dc:title>
+    <dc:creator>Dal Yong Jin</dc:creator>
+    <dc:creator>Kyong Yoon</dc:creator>
+    <dc:subject>Cultura Pop</dc:subject>
+    <dc:subject>K-Pop</dc:subject>
+    <dc:subject>Redes Sociais</dc:subject>
+    <dc:description>Artigo científico. New Media &amp; Society, vol. 18, n.º 7, pp. 1277–1292. Publicado online a 16/10/2014; incluído no número de agosto de 2016.</dc:description>
+    <dc:date>2014-10-16</dc:date>
+    <dc:language>en</dc:language>
+    <cdu>316.77</cdu>
+    <anoPublicacao>2016</anoPublicacao>
+    <resumo>Analisa a <termo>Hallyu 2.0</termo>, a nova fase da cultura pop sul-coreana, e o papel das <termo>redes sociais</termo> na forma como os fãs partilham e fazem circular o <termo>K-pop</termo> fora da Coreia do Sul.</resumo>
+    <artigo>
+      <doi>10.1177/1461444814554895</doi>
+      <revista>New Media &amp; Society</revista>
+      <volume>18</volume>
+    </artigo>
+    <relacionados>
+      <relacionado ref="DOC-0003"/>
+      <relacionado ref="DOC-0014"/>
+    </relacionados>
+    <adm:metadados>
+      <adm:dataRegisto>2026-11-13</adm:dataRegisto>
+      <adm:estado>disponivel</adm:estado>
+      <adm:hashFicheiro>6c0e4a82d5f91b37e6a0c4d8f2b59137c6e8a0b2d4f68135e7a9c1d3f5b78918</adm:hashFicheiro>
+      <adm:custoAquisicao>12.00</adm:custoAquisicao>
+    </adm:metadados>
+  </documento>
+
+  <documento id="DOC-0009">
+    <dc:title lingua="en">Binge-watching: Video-on-demand, quality TV and mainstreaming fandom</dc:title>
+    <dc:creator>Mareike Jenner</dc:creator>
+    <dc:subject>Cultura Pop</dc:subject>
+    <dc:subject>Streaming</dc:subject>
+    <dc:subject>Televisão</dc:subject>
+    <dc:description>Artigo científico. International Journal of Cultural Studies, vol. 20, n.º 3, pp. 304–320. Publicado online a 18/09/2015; incluído no volume de 2017.</dc:description>
+    <dc:date>2015-09-18</dc:date>
+    <dc:language>en</dc:language>
+    <cdu>654.197</cdu>
+    <anoPublicacao>2017</anoPublicacao>
+    <resumo>Explora o <termo>binge-watching</termo> como forma de ver televisão associada aos fãs, às séries de qualidade e aos serviços de <termo>video-on-demand</termo>, que o transformaram numa prática comum.</resumo>
+    <artigo>
+      <doi>10.1177/1367877915606485</doi>
+      <revista>International Journal of Cultural Studies</revista>
+      <volume>20</volume>
+    </artigo>
+    <relacionados>
+      <relacionado ref="DOC-0005"/>
+      <relacionado ref="DOC-0010"/>
+    </relacionados>
+    <adm:metadados>
+      <adm:dataRegisto>2026-11-13</adm:dataRegisto>
+      <adm:estado>disponivel</adm:estado>
+      <adm:hashFicheiro>3a7c1e59b4d82f60c3e7a1b5d9f48260a3c5e7f9b1d36802c4e6a8b0d2f47929</adm:hashFicheiro>
+      <adm:custoAquisicao>0.00</adm:custoAquisicao>
+    </adm:metadados>
+  </documento>
+
+  <documento id="DOC-0010">
+    <dc:title lingua="pt-PT">Homo Streamius Lusitanus: uma breve análise sobre o recente comportamento do espectador Português em serviços de Streaming e Video-on-Demand</dc:title>
+    <dc:creator>António S. Sanganha</dc:creator>
+    <dc:subject>Cultura Pop</dc:subject>
+    <dc:subject>Streaming</dc:subject>
+    <dc:subject>Cinema</dc:subject>
+    <dc:description>Artigo científico. Revista de Comunicação e Linguagens, n.º 55 («Novos media habituais»), pp. 99–117, publicado a 20/12/2021.</dc:description>
+    <dc:date>2021-12-20</dc:date>
+    <dc:language>pt-PT</dc:language>
+    <cdu>791.43</cdu>
+    <anoPublicacao>2021</anoPublicacao>
+    <resumo>Analisa o comportamento recente do espectador português que vê filmes e séries em serviços de <termo>streaming</termo> e <termo>video-on-demand</termo>, no contexto da pandemia e da relação com as salas de cinema.</resumo>
+    <artigo>
+      <doi>10.34619/npv9-ernh</doi>
+      <revista>Revista de Comunicação e Linguagens</revista>
+      <volume>55</volume>
+    </artigo>
+    <relacionados>
+      <relacionado ref="DOC-0009"/>
+      <relacionado ref="DOC-0016"/>
+    </relacionados>
+    <adm:metadados>
+      <adm:dataRegisto>2026-11-14</adm:dataRegisto>
+      <adm:estado>disponivel</adm:estado>
+      <adm:hashFicheiro>0e4a8c26f1b59d73e0a4c8f2b6d91573f0a2c4e6b8d13579e0a2c4d6f8b14630</adm:hashFicheiro>
+      <adm:custoAquisicao>0.00</adm:custoAquisicao>
+    </adm:metadados>
+  </documento>
+
+  <documento id="DOC-0011">
+    <dc:title lingua="pt-PT">A Tradução de Banda Desenhada em Portugal</dc:title>
+    <dc:creator>Ana Patrícia Ferreira de Azeredo</dc:creator>
+    <dc:subject>Cultura Pop</dc:subject>
+    <dc:subject>Banda Desenhada</dc:subject>
+    <dc:subject>Tradução</dc:subject>
+    <dc:description>Dissertação de mestrado. Faculdade de Letras da Universidade do Porto, 2013. Repositório Aberto da U.Porto.</dc:description>
+    <dc:date>2013-01-01</dc:date>
+    <dc:language>pt-PT</dc:language>
+    <cdu>741.5</cdu>
+    <anoPublicacao>2013</anoPublicacao>
+    <resumo>Estuda a <termo>tradução de banda desenhada</termo> e a forma como é encarada em Portugal, combinando revisão bibliográfica, entrevistas a quem participa na edição de BD estrangeira e um questionário a <termo>leitores de BD</termo>.</resumo>
+    <tese>
+      <instituicao>Universidade do Porto – Faculdade de Letras</instituicao>
+      <grau>Mestrado em Tradução e Serviços Linguísticos</grau>
+      <orientador>Belinda Mary Harper Sousa Maia</orientador>
+    </tese>
+    <relacionados>
+      <relacionado ref="DOC-0001"/>
+      <relacionado ref="DOC-0015"/>
+    </relacionados>
+    <adm:metadados>
+      <adm:dataRegisto>2026-11-14</adm:dataRegisto>
+      <adm:estado>arquivo</adm:estado>
+      <adm:hashFicheiro>b5d9f3a7c1e48260d5f9a3c7e1b48260f5a7c9e1b3d57902a4c6e8b0d2f46841</adm:hashFicheiro>
+      <adm:custoAquisicao>0.00</adm:custoAquisicao>
+    </adm:metadados>
+  </documento>
+
+  <documento id="DOC-0012">
+    <dc:title lingua="pt-PT">Da Estigmatização à Aceitação: A Construção Mediática dos Videojogos em Portugal</dc:title>
+    <dc:creator>David Fernando Nunes Ferreira</dc:creator>
+    <dc:subject>Cultura Pop</dc:subject>
+    <dc:subject>Videojogos</dc:subject>
+    <dc:subject>Media</dc:subject>
+    <dc:description>Dissertação de mestrado. Escola Superior de Educação do Politécnico de Coimbra, outubro de 2025.</dc:description>
+    <dc:date>2025-10-01</dc:date>
+    <dc:language>pt-PT</dc:language>
+    <cdu>794</cdu>
+    <anoPublicacao>2025</anoPublicacao>
+    <resumo>Estuda a forma como os <termo>media portugueses</termo> construíram a imagem dos <termo>videojogos</termo>, de uma visão estigmatizada para uma maior aceitação social.</resumo>
+    <tese>
+      <instituicao>Politécnico de Coimbra – Escola Superior de Educação</instituicao>
+      <grau>Mestrado em Comunicação Social – Novos Média</grau>
+      <orientador>Giovanni Ricardo Ramos</orientador>
+    </tese>
+    <relacionados>
+      <relacionado ref="DOC-0002"/>
+      <relacionado ref="DOC-0019"/>
+    </relacionados>
+    <adm:metadados>
+      <adm:dataRegisto>2026-11-14</adm:dataRegisto>
+      <adm:estado>disponivel</adm:estado>
+      <adm:hashFicheiro>e2a6c0f4b8d15937a2c6e0f4b8d35917c2e4a6b8d0f24680a2c4e6f8b0d25752</adm:hashFicheiro>
+      <adm:custoAquisicao>0.00</adm:custoAquisicao>
+    </adm:metadados>
+  </documento>
+
+  <documento id="DOC-0013">
+    <dc:title lingua="pt-PT">Subculturas Juvenis e Novos Media: A participação dos jovens nas comunidades de cosplay em Portugal</dc:title>
+    <dc:creator>Miguel Afonso Fernandes Bouzada e Pinto</dc:creator>
+    <dc:subject>Cultura Pop</dc:subject>
+    <dc:subject>Cosplay</dc:subject>
+    <dc:subject>Juventude</dc:subject>
+    <dc:description>Dissertação de mestrado. ISCTE – Instituto Universitário de Lisboa, setembro de 2013.</dc:description>
+    <dc:date>2013-09-01</dc:date>
+    <dc:language>pt-PT</dc:language>
+    <cdu>316.7</cdu>
+    <anoPublicacao>2013</anoPublicacao>
+    <resumo>Explora as comunidades de <termo>cosplay</termo> em Portugal, o significado que têm para os jovens que nelas participam e o papel dos <termo>novos media</termo> nessa participação.</resumo>
+    <tese>
+      <instituicao>ISCTE – Instituto Universitário de Lisboa</instituicao>
+      <grau>Mestrado em Comunicação, Cultura e Tecnologias da Informação</grau>
+      <orientador>Rita Maria Espanha Pires Chaves Torrado da Silva</orientador>
+    </tese>
+    <relacionados>
+      <relacionado ref="DOC-0007"/>
+    </relacionados>
+    <adm:metadados>
+      <adm:dataRegisto>2026-11-15</adm:dataRegisto>
+      <adm:estado>disponivel</adm:estado>
+      <adm:hashFicheiro>d8f2a6c0e4b91573f8a2c6e0b4d91573a8c0e2f4b6d80246c8e0a2b4d6f81363</adm:hashFicheiro>
+      <adm:custoAquisicao>0.00</adm:custoAquisicao>
+    </adm:metadados>
+  </documento>
+
+  <documento id="DOC-0014">
+    <dc:title lingua="pt-PT">Cultura Sul-Coreana em Portugal: O Efeito da &quot;Korean Wave&quot;</dc:title>
+    <dc:creator>Maria Inês Madureira Loureiro</dc:creator>
+    <dc:subject>Cultura Pop</dc:subject>
+    <dc:subject>K-Pop</dc:subject>
+    <dc:subject>Cultura Coreana</dc:subject>
+    <dc:description>Dissertação de mestrado. ISCTE – Instituto Universitário de Lisboa, setembro de 2018. Coorientação de Tiago Lapa.</dc:description>
+    <dc:date>2018-09-01</dc:date>
+    <dc:language>pt-PT</dc:language>
+    <cdu>316.7</cdu>
+    <anoPublicacao>2018</anoPublicacao>
+    <resumo>Investiga o impacto da <termo>Korean Wave</termo> na divulgação da <termo>cultura coreana</termo> em Portugal, com base em entrevistas e inquéritos.</resumo>
+    <tese>
+      <instituicao>ISCTE – Instituto Universitário de Lisboa</instituicao>
+      <grau>Mestrado em Empreendedorismo e Estudos da Cultura</grau>
+      <orientador>Maria João Vaz</orientador>
+    </tese>
+    <relacionados>
+      <relacionado ref="DOC-0008"/>
+    </relacionados>
+    <adm:metadados>
+      <adm:dataRegisto>2026-11-15</adm:dataRegisto>
+      <adm:estado>disponivel</adm:estado>
+      <adm:hashFicheiro>a4c8e2f6b0d37195c4e8a2f6b0d57139e4a6c8b0d2f46813a4c6e8f0b2d47974</adm:hashFicheiro>
+      <adm:custoAquisicao>0.00</adm:custoAquisicao>
+    </adm:metadados>
+  </documento>
+
+  <documento id="DOC-0015">
+    <dc:title lingua="pt-PT">Banzai: O Manga Português e a Construção da Imagem do Japão</dc:title>
+    <dc:creator>Joana Filipa Carlos Morgado</dc:creator>
+    <dc:subject>Cultura Pop</dc:subject>
+    <dc:subject>Manga</dc:subject>
+    <dc:subject>Banda Desenhada</dc:subject>
+    <dc:description>Dissertação de mestrado. Universidade Católica Portuguesa – Faculdade de Ciências Humanas, novembro de 2014 (grau atribuído em março de 2015).</dc:description>
+    <dc:date>2014-11-01</dc:date>
+    <dc:language>pt-PT</dc:language>
+    <cdu>741.5</cdu>
+    <anoPublicacao>2014</anoPublicacao>
+    <resumo>Analisa a revista Banzai e o <termo>manga português</termo>, mostrando como este manga híbrido contribui para a <termo>imagem do Japão</termo> e para a difusão da cultura popular japonesa em Portugal.</resumo>
+    <tese>
+      <instituicao>Universidade Católica Portuguesa – Faculdade de Ciências Humanas</instituicao>
+      <grau>Mestrado em Estudos Asiáticos</grau>
+      <orientador>António Eduardo Hawthorne Barrento</orientador>
+    </tese>
+    <relacionados>
+      <relacionado ref="DOC-0001"/>
+      <relacionado ref="DOC-0011"/>
+    </relacionados>
+    <adm:metadados>
+      <adm:dataRegisto>2026-11-15</adm:dataRegisto>
+      <adm:estado>arquivo</adm:estado>
+      <adm:hashFicheiro>f1b5d9a3c7e20468b1d5f9a3c7e40286d1f3a5b7c9e12468f1a3c5d7e9b13585</adm:hashFicheiro>
+      <adm:custoAquisicao>0.00</adm:custoAquisicao>
+    </adm:metadados>
+  </documento>
+
+  <documento id="DOC-0016">
+    <dc:title lingua="pt-PT">Cinema e Etc. – Ep. 2: conversa com Jorge Leitão Ramos</dc:title>
+    <dc:creator>João Lopes</dc:creator>
+    <dc:subject>Cultura Pop</dc:subject>
+    <dc:subject>Cinema</dc:subject>
+    <dc:description>Programa de rádio da RTP Antena 1, episódio 2, emitido a 23/05/2022 e disponível na RTP Play.</dc:description>
+    <dc:date>2022-05-23</dc:date>
+    <dc:language>pt-PT</dc:language>
+    <cdu>791.43</cdu>
+    <anoPublicacao>2022</anoPublicacao>
+    <resumo>Conversa sobre <termo>cinema</termo> entre João Lopes e o <termo>crítico de cinema</termo> Jorge Leitão Ramos.</resumo>
+    <multimedia>
+      <formato>audio</formato>
+      <duracaoMin>41</duracaoMin>
+      <plataforma>RTP Play (RTP Antena 1)</plataforma>
+    </multimedia>
+    <relacionados>
+      <relacionado ref="DOC-0010"/>
+    </relacionados>
+    <adm:metadados>
+      <adm:dataRegisto>2026-11-16</adm:dataRegisto>
+      <adm:estado>disponivel</adm:estado>
+      <adm:hashFicheiro>c7e1a5b9d3f82460e7a1c5b9d3f62480a7c9e1f3b5d70246c7e9a1b3d5f71396</adm:hashFicheiro>
+      <adm:custoAquisicao>0.00</adm:custoAquisicao>
+    </adm:metadados>
+  </documento>
+
+  <documento id="DOC-0017">
+    <dc:title lingua="pt-PT">Pranchas e Balões – Ep. 22: O legado de John Romita Jr. e o documentário de John Barrigana</dc:title>
+    <dc:creator>Rui Alves de Sousa</dc:creator>
+    <dc:subject>Cultura Pop</dc:subject>
+    <dc:subject>Banda Desenhada</dc:subject>
+    <dc:description>Programa de rádio da RTP Antena 1 sobre banda desenhada, episódio 22, de 29/06/2026, disponível na RTP Play.</dc:description>
+    <dc:date>2026-06-29</dc:date>
+    <dc:language>pt-PT</dc:language>
+    <cdu>741.5</cdu>
+    <anoPublicacao>2026</anoPublicacao>
+    <resumo>Duas conversas sobre <termo>banda desenhada</termo>: uma gravada na <termo>Comic Con Portugal</termo> com John Romita Jr. e outra com John Barrigana, realizador de um documentário sobre o cartoonista António.</resumo>
+    <multimedia>
+      <formato>audio</formato>
+      <duracaoMin>49</duracaoMin>
+      <plataforma>RTP Play (RTP Antena 1)</plataforma>
+    </multimedia>
+    <relacionados>
+      <relacionado ref="DOC-0001"/>
+    </relacionados>
+    <adm:metadados>
+      <adm:dataRegisto>2026-11-16</adm:dataRegisto>
+      <adm:estado>disponivel</adm:estado>
+      <adm:hashFicheiro>9a3c7e15b8d24f60c9e3a7b1d5f82460e9a1c3d5f7b90246a9c1e3f5b7d92407</adm:hashFicheiro>
+      <adm:custoAquisicao>0.00</adm:custoAquisicao>
+    </adm:metadados>
+  </documento>
+
+  <documento id="DOC-0018">
+    <dc:title lingua="pt-PT">A Hora da Pop – Ep. 22: Videojogos na biblioteca!</dc:title>
+    <dc:creator>Rui Alves de Sousa</dc:creator>
+    <dc:subject>Cultura Pop</dc:subject>
+    <dc:subject>Videojogos</dc:subject>
+    <dc:subject>Bibliotecas</dc:subject>
+    <dc:description>Podcast da RTP Antena 1, episódio 22, de 18/09/2025, disponível na RTP Play.</dc:description>
+    <dc:date>2025-09-18</dc:date>
+    <dc:language>pt-PT</dc:language>
+    <cdu>794</cdu>
+    <anoPublicacao>2025</anoPublicacao>
+    <resumo>Apresenta o Bibliogamers, um evento dedicado aos <termo>videojogos</termo> que decorre em várias <termo>bibliotecas de Lisboa</termo>, com Ana Mota e Paulo José da Silva.</resumo>
+    <multimedia>
+      <formato>podcast</formato>
+      <duracaoMin>33</duracaoMin>
+      <plataforma>RTP Play (RTP Antena 1)</plataforma>
+    </multimedia>
+    <relacionados>
+      <relacionado ref="DOC-0002"/>
+      <relacionado ref="DOC-0019"/>
+    </relacionados>
+    <adm:metadados>
+      <adm:dataRegisto>2026-11-16</adm:dataRegisto>
+      <adm:estado>disponivel</adm:estado>
+      <adm:hashFicheiro>4d8f2a60c5e91b73f4a8c2e6b0d59137a4c6e8b0d2f46802c4e6a8f0b2d43518</adm:hashFicheiro>
+      <adm:custoAquisicao>0.00</adm:custoAquisicao>
+    </adm:metadados>
+  </documento>
+
+  <documento id="DOC-0019">
+    <dc:title lingua="pt-PT">Rédeas do Jogo #21: Steam Deck 2, Analogue 3D, DLCs em Fighting Games e muito mais!</dc:title>
+    <dc:creator>Commander Bonny</dc:creator>
+    <dc:creator>V2</dc:creator>
+    <dc:creator>fish</dc:creator>
+    <dc:subject>Cultura Pop</dc:subject>
+    <dc:subject>Videojogos</dc:subject>
+    <dc:description>Talk show semanal da RTP Arena (Originais RTP Play), episódio 21, de 24/10/2024. Convidado: Marco «MFgaming» Fresco.</dc:description>
+    <dc:date>2024-10-24</dc:date>
+    <dc:language>pt-PT</dc:language>
+    <cdu>794</cdu>
+    <anoPublicacao>2024</anoPublicacao>
+    <resumo>Debate sobre a atualidade da <termo>indústria dos videojogos</termo>, com temas como a Steam Deck 2, a consola Analogue 3D e os conteúdos adicionais nos jogos de luta (<termo>DLC</termo>).</resumo>
+    <multimedia>
+      <formato>podcast</formato>
+      <duracaoMin>90</duracaoMin>
+      <plataforma>RTP Play (Originais RTP Play)</plataforma>
+    </multimedia>
+    <relacionados>
+      <relacionado ref="DOC-0002"/>
+      <relacionado ref="DOC-0012"/>
+    </relacionados>
+    <adm:metadados>
+      <adm:dataRegisto>2026-11-17</adm:dataRegisto>
+      <adm:estado>disponivel</adm:estado>
+      <adm:hashFicheiro>7b1d5f93a6c08e42d7f1a5c9e3b60824f7a9c1d3e5b78024a7c9e1b3d5f74629</adm:hashFicheiro>
+      <adm:custoAquisicao>0.00</adm:custoAquisicao>
+    </adm:metadados>
+  </documento>
+
+  <documento id="DOC-0020">
+    <dc:title lingua="pt-PT">Zx Spectrum: De 1982 a Mais Além – Ep. 4</dc:title>
+    <dc:creator>Galgo Filmes</dc:creator>
+    <dc:subject>Cultura Pop</dc:subject>
+    <dc:subject>Videojogos</dc:subject>
+    <dc:subject>Nostalgia</dc:subject>
+    <dc:description>Série documental da RTP2 em quatro episódios, produzida pela Galgo Filmes; episódio 4, emitido a 21/12/2025 e disponível na RTP Play.</dc:description>
+    <dc:date>2025-12-21</dc:date>
+    <dc:language>pt-PT</dc:language>
+    <cdu>004</cdu>
+    <anoPublicacao>2025</anoPublicacao>
+    <resumo>Último episódio da série sobre o <termo>ZX Spectrum</termo>: passado em Coimbra, recua às origens do primeiro computador feito em Portugal e ao papel do Spectrum nessa história, acompanhando o fundador do <termo>Museu LOAD ZX</termo> de Cantanhede.</resumo>
+    <multimedia>
+      <formato>documentario</formato>
+      <duracaoMin>25</duracaoMin>
+      <plataforma>RTP Play (RTP2)</plataforma>
+    </multimedia>
+    <relacionados>
+      <relacionado ref="DOC-0002"/>
+      <relacionado ref="DOC-0004"/>
+    </relacionados>
+    <adm:metadados>
+      <adm:dataRegisto>2026-11-17</adm:dataRegisto>
+      <adm:estado>emprestado</adm:estado>
+      <adm:hashFicheiro>2e6a0c48f3b79d51a2c6e0f4b8d37915c2e4a6b8d0f24681e2a4c6d8f0b25740</adm:hashFicheiro>
+      <adm:custoAquisicao>15.00</adm:custoAquisicao>
+    </adm:metadados>
+  </documento>
+
+</catalogo>

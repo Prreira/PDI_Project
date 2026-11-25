@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://ispgaya.pt/pi/bibliopi/adm"
+           xmlns:adm="http://ispgaya.pt/pi/bibliopi/adm"
+           elementFormDefault="qualified">
+
+  <xs:simpleType name="TipoSHA256">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="[a-f0-9]{64}"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="TipoEstado">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="disponivel"/>
+      <xs:enumeration value="emprestado"/>
+      <xs:enumeration value="reservado"/>
+      <xs:enumeration value="arquivo"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="TipoValorMonetario">
+    <xs:restriction base="xs:decimal">
+      <xs:totalDigits value="6"/>
+      <xs:fractionDigits value="2"/>
+      <xs:minInclusive value="0.00"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:complexType name="TipoMetadadosAdm">
+    <xs:sequence>
+      <xs:element name="dataRegisto" type="xs:date"/>
+      <xs:element name="estado" type="adm:TipoEstado"/>
+      <xs:element name="hashFicheiro" type="adm:TipoSHA256"/>
+      <xs:element name="custoAquisicao" type="adm:TipoValorMonetario"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:element name="metadados" type="adm:TipoMetadadosAdm"/>
+
+</xs:schema>

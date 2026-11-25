@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://purl.org/dc/elements/1.1/"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           elementFormDefault="qualified">
+        
+  <xs:complexType name="TipoTituloDC">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute name="lingua" type="xs:string" use="optional" default="pt-PT"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+
+  <xs:element name="title" type="dc:TipoTituloDC"/>
+  <xs:element name="creator" type="xs:string"/>
+  <xs:element name="subject" type="xs:string"/>
+  <xs:element name="description" type="xs:string"/>
+  <xs:element name="date" type="xs:date"/>
+  <xs:element name="language" type="xs:string"/>
+
+</xs:schema>

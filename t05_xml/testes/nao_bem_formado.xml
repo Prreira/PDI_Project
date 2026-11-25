@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo xmlns="http://ispgaya.pt/pi/bibliopi"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          subtema=CulturaPop>
+  <documento id="DOC-0001">
+    <dc:title>Cultura da Convergência</documento>
+    <dc:creator>Henry Jenkins</dc:creator>
